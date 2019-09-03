@@ -4,6 +4,7 @@ This is the reading list of topics in NLP area
 
 ## Latest NLP models: 
    update:Sep.2.2019 
+   
    [ERNIE 2.0: A CONTINUAL PRE-TRAINING FRAMEWORK FOR LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1907.12412.pdf)
    
    [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
