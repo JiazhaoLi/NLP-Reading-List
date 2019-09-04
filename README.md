@@ -13,8 +13,10 @@ This is the reading list of topics in NLP area
    
    [ELMo](https://arxiv.org/abs/1802.05365)
    
-    
-
+## word embedding:
+   1.word2vec
+   2.GloVe
+   3.Fasttext
 ## GLUE Tasks:
    1.[The Corpus of Linguistic Acceptability](https://nyu-mll.github.io/CoLA/)
 ## Text Generation:
@@ -30,3 +32,4 @@ This is the reading list of topics in NLP area
 
 ## [SuperGLUE Task](https://super.gluebenchmark.com/)：
   #[ERNIE 2.0: A CONTINUAL PRE-TRAINING FRAMEWORK FOR LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1907.12412.pdf)
+
