@@ -17,6 +17,12 @@ This is the reading list of topics in NLP area
    1.word2vec
    2.GloVe
    3.Fasttext
+   
+## subword embedding:
+   1. Byte Pair Encoding (BPE)
+   2. WordPiece
+   3. Unigram Language Model
+ 
 ## GLUE Tasks:
    1.[The Corpus of Linguistic Acceptability](https://nyu-mll.github.io/CoLA/)
 ## Text Generation:
