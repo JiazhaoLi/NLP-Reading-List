@@ -2,6 +2,9 @@
 This is the reading list of topics in NLP area
 
 
+
+## [Natrual language understanding]:
+   NLU = NLP + IR ? 
 ## [Named Entity Recognition](https://github.com/JiazhaoLi/NLP_ReadingList/blob/master/NER.md):
    
 
