@@ -2,6 +2,10 @@
 This is the reading list of topics in NLP area
 
 
+## NER:
+   
+
+
 ## Latest NLP models: 
    update:Sep.2.2019 
    
