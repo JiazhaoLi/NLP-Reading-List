@@ -3,11 +3,12 @@ This is the reading list of topics in NLP area
 
 
 
-## [Natrual language understanding]:
+### [Natrual language understanding]:
    NLU = NLP + IR ? 
-## [Named Entity Recognition](https://github.com/JiazhaoLi/NLP_ReadingList/blob/master/NER.md):
+### [Named Entity Recognition](https://github.com/JiazhaoLi/NLP_ReadingList/blob/master/NER.md):
    
-## [Question Answering](https://github.com/JiazhaoLi/NLP-Reading-List/blob/master/QA.md):
+### [Question Answering](https://github.com/JiazhaoLi/NLP-Reading-List/blob/master/QA.md)
+   
       
 
 ## Latest NLP models: 
