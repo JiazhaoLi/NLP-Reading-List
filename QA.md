@@ -1,7 +1,6 @@
 ## Qustion & Answering
  
- [Brief Introduction on Qeustion & Answering](https://web.s
- nford.edu/~jurafsky/slp3/23.pdf)
+ [Brief Introduction on Qeustion & Answering](https://web.snford.edu/~jurafsky/slp3/23.pdf)
  
     1. Information Retrieval Based QA 
     2. Knowledge based QA
