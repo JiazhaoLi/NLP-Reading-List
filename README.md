@@ -7,7 +7,8 @@ This is the reading list of topics in NLP area
    NLU = NLP + IR ? 
 ## [Named Entity Recognition](https://github.com/JiazhaoLi/NLP_ReadingList/blob/master/NER.md):
    
-
+## [Question Answering](https://github.com/JiazhaoLi/NLP-Reading-List/blob/master/QA.md):
+      
 
 ## Latest NLP models: 
    update:Sep.2.2019 
