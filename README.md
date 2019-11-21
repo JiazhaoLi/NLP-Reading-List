@@ -3,6 +3,15 @@ This is the reading list of topics in NLP area
 
 
 
+#### [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)  ICLR2017  Nov/20/2019
+1. Goal: Using RNN to design CNN and RNN architecture with Reinforcement Learning
+2. Reward is accuracy on test dataset. 
+3. using Signmod to choose settings from sets.
+4. Heigh lights 1. variable length and structure. get some novel structures. 2. design structure automatically. 
+                  
+
+
+
 ### [Natrual language understanding]:
    NLU = NLP + IR ? 
 ### [Named Entity Recognition](https://github.com/JiazhaoLi/NLP_ReadingList/blob/master/NER.md):
