@@ -1,6 +1,14 @@
-# NLP_ReadingList
-This is the reading list of topics in NLP area
+# ReadingList
+This is the reading list of topics 
 
+###### CVPR 2019 about interpretable model ############   update Feb/02/2919  ###########
+1. [Exploiting Kernel Sparsity and Entropy for Interpretable CNN Compression](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Exploiting_Kernel_Sparsity_and_Entropy_for_Interpretable_CNN_Compression_CVPR_2019_paper.pdf)
+
+2. [Interpreting CNNs via Decision Trees](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Interpreting_CNNs_via_Decision_Trees_CVPR_2019_paper.pdf)
+
+3. [End-To-End Interpretable Neural Motion Planner](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_End-To-End_Interpretable_Neural_Motion_Planner_CVPR_2019_paper.pdf)
+
+4. [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
 
 #### [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)  ICLR2017  Nov/20/2019
