@@ -5,7 +5,12 @@ This is the reading list of topics
 1. [Exploiting Kernel Sparsity and Entropy for Interpretable CNN Compression](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Exploiting_Kernel_Sparsity_and_Entropy_for_Interpretable_CNN_Compression_CVPR_2019_paper.pdf)
 
 2. [Interpreting CNNs via Decision Trees](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Interpreting_CNNs_via_Decision_Trees_CVPR_2019_paper.pdf)
-
+   1. related work:
+      ##### CNN visualization:
+      1.gradient-based 2. up-convolutional nets feature map
+      3.semanctics of CNN -> object, parts, scenes, texture, materials, color. 
+      ##### CNN diagnosis:
+      1.diagnosis a pre-trained CNN
 3. [End-To-End Interpretable Neural Motion Planner](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_End-To-End_Interpretable_Neural_Motion_Planner_CVPR_2019_paper.pdf)
 
 4. [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
