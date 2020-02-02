@@ -1,7 +1,7 @@
 # ReadingList
 This is the reading list of topics 
 
-###### CVPR 2019 about interpretable model ############   update Feb/02/2919  ###########
+#### [CVPR 2019](http://openaccess.thecvf.com/CVPR2019.py) about interpretable model   update Feb/02/2919 
 1. [Exploiting Kernel Sparsity and Entropy for Interpretable CNN Compression](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Exploiting_Kernel_Sparsity_and_Entropy_for_Interpretable_CNN_Compression_CVPR_2019_paper.pdf)
 
 2. [Interpreting CNNs via Decision Trees](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Interpreting_CNNs_via_Decision_Trees_CVPR_2019_paper.pdf)
